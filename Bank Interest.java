@@ -1,4 +1,4 @@
-/*Create an Interest calculator for banks using java which incorporates, Inheritance, polymorphism, classes, object etc*/
+/*Create an Interest calculator for banks using java which incorporates, Inheritance, polymorphism, classes, object etc..(for calculating only interest)*/
 
 import java.util.Scanner;
 interface Percentage{
