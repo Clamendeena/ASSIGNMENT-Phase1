@@ -34,7 +34,7 @@ public class Main {
 	   System.out.println(user);
 	    
 	}  
-   public static double[] getIntrestRepayMonth(double amount)
+   public static double[] getInterestRepayMonth(double amount)
    {
 	   
 	   double arr1[]=new double[2];
